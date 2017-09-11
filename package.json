@@ -12,6 +12,7 @@
   "dependencies": {
     "axios": "^0.16.2",
     "body-parser": "^1.18.0",
+    "cors": "^2.8.4",
     "express": "^4.15.4",
     "feedme": "^1.0.1",
     "feedparser": "^2.2.1",
